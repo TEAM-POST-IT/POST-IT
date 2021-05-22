@@ -1,5 +1,5 @@
 # POST-IT
-<img href="https://post-it.site" src="https://user-images.githubusercontent.com/38396374/119237379-74cc9900-bb77-11eb-8e8f-a95a3450ad67.png" width="200" height="200"/><br/>👆Click to move POST-IT!👆
+<a href="https://post-it.site" target="_blank"><img src="https://user-images.githubusercontent.com/38396374/119237379-74cc9900-bb77-11eb-8e8f-a95a3450ad67.png" width="200" height="200"/></a><br/>👆Click to move POST-IT!👆
 
 
 ### 2021.05.21 
