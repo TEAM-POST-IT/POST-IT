@@ -10,3 +10,5 @@
 > 백
 1. AWS EC2에 백엔드 nginx reverse proxy 이용, HTTPS 배포
 
+>notion 주소
+1. >https://www.notion.so/f3a468ab95014edda714dba14fbfada5?v=9ed5419bc95e4395a0aaa1ade411b0fa
