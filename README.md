@@ -1,14 +1,4 @@
 # POST-IT
 <a href="https://post-it.site" target="_blank"><img src="https://user-images.githubusercontent.com/38396374/119237379-74cc9900-bb77-11eb-8e8f-a95a3450ad67.png" width="200" height="200"/></a><br/>👆Click to move POST-IT!👆
 
-
-### 2021.05.21 
-#### HanJaehee : 서버 너무 비싸요.. 🥲
-> 프론트
-1. AWS S3, Cloudfront, Certificate Manager 이용, HTTPS 배포
-2. 기존 블로그, 유튜브 카드 Title에만 링크 적용 -> 카드 전체로 click 영역 확장
-> 백
-1. AWS EC2에 백엔드 nginx reverse proxy 이용, HTTPS 배포
-
->We working... (notion)
-1. https://www.notion.so/f3a468ab95014edda714dba14fbfada5?v=9ed5419bc95e4395a0aaa1ade411b0fa
+GO TO [POST-IT NOTION](https://www.notion.so/POST-IT-156636b1c0ec4d8fabeeb4fd1470fb6a)
